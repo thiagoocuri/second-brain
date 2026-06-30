@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "cfc24297780c2adb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ca6b141cb488fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dac76744a28ec011",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a94ac8e3c91dbde2",
+    "type": "split",
+    "children": [
+      {
+        "id": "940ce463a5f9cded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a05a089dfd17bd5d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d1654b2322b51dca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d9063de8d2af47dc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b084b508c8937cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "13180b9b97edf53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa371d1a0e00d7d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bem-vindo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Bem-vindo"
+            }
+          },
+          {
+            "id": "7af55816c8ae32d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "8ac5d138935f04fe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "2aa2376a178fe440",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "ac1efc6a297f3b51",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bem-vindo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Bem-vindo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "dac76744a28ec011",
+  "lastOpenFiles": [
+    "skill-finder/skills/skill-installer/SKILL.md",
+    "skill-finder/skills/skill-finder/SKILL.md",
+    "skill-finder/skills/skill-installer",
+    "skill-finder/skills/skill-finder",
+    "skill-finder/skills",
+    "skill-finder/plugin.json",
+    "skill-finder/README.md",
+    "skill-finder",
+    "raw/Eu acho que você está muito perto de enc.md",
+    "wiki/concepts/tracks-prospecao.md",
+    "wiki/log.md",
+    "wiki/concepts/metricas-reputacao.md",
+    "wiki/analyses/dados-reviews-resumo.md",
+    "wiki/index.md.tmp.6592.607846d17f66",
+    "wiki/index.md.tmp.6592.451603c10ebc",
+    "wiki/index.md.tmp.6592.bbecbc9ea045",
+    "wiki/sources/dados-reviews-chatgpt.md.tmp.6592.0e36f37e5247",
+    "wiki/analyses/soci-replicacao-avalyse.md",
+    "wiki/analyses/soci-replicacao-avalyse.md.tmp.6592.24cdde1f102d",
+    "wiki/entities/soci.md",
+    "wiki/sources/soci-deep-research-2026.md",
+    "raw/deep-research-report (1).md",
+    "wiki/index.md",
+    "wiki/sources/dados-reviews-chatgpt.md",
+    "raw/dados_reviews_chatgpt.md",
+    "wiki/new data.md",
+    "wiki/overview.md",
+    "wiki/entities/avalyse.md",
+    "Sem título.canvas",
+    "wiki/concepts/equacao-de-valor.md",
+    "raw/avalyse-funil-segmentacao-gatilhos-2026-06-27.md",
+    "wiki/concepts/flywheel-reputacao-conteudo.md",
+    "wiki/concepts/ativo-silencioso.md",
+    "wiki/sources/avalyse-funil-segmentacao-gatilhos-2026-06-27.md",
+    "wiki/concepts/contabilidade-de-inovacao.md",
+    "wiki/entities/gym-launch.md",
+    "wiki/entities/glencoco.md",
+    "Sem título 1.canvas"
+  ]
+}

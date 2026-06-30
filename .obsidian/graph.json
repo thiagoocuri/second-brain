@@ -1,0 +1,30 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#avalyse  ",
+      "color": {
+        "a": 1,
+        "rgb": 16733967
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.431081081081081,
+  "lineSizeMultiplier": 0.655197505197505,
+  "collapse-forces": true,
+  "centerStrength": 0.325363825363825,
+  "repelStrength": 8.17047817047817,
+  "linkStrength": 0.695426195426195,
+  "linkDistance": 30,
+  "scale": 0.14975384493667498,
+  "close": true
+}
