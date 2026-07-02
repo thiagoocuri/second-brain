@@ -68,3 +68,11 @@ Nenhuma informação do diagnóstico completo (ranking, SEO, site, bullet points
 
 1. **Follow-up após vídeo sem resposta (passo 5):** decisão pendente — resolver ainda em 2026-07-01. Opções discutidas: manter padrão v3 (2-3 follow-ups por texto com escassez/dado novo) até Fase 2 estar pronta, vs. outra abordagem.
 2. **Passo 2 — pergunta de contexto vs. gap direto:** resolver via teste A/B.
+
+---
+
+## Adendo (2026-07-01) — Gatekeeper e dor no vídeo
+
+**Gatekeeper (secretária vs. dono):** decisão estrutural — nenhuma etapa do fluxo pergunta explicitamente "você é o dono?" (parece robotizado/vendedor, quebra o tom natural do gap). O filtro é 100% pela resposta natural: quem repassa, repassa; quem não responde, escala pro follow-up de ligação (passo 5). O CTA de demo (passo 4) permanece mudo sobre quem está do outro lado — sem linguagem especial de "repasse". A ligação de follow-up também não tem um branch documentado para "pedir o responsável" — fica a critério de quem liga, resolvido naturalmente na conversa ao vivo (diferente de texto, pedir para falar com o responsável numa ligação é normal, não soa script).
+
+**Dor no vídeo fixo:** o roteiro (`content/outbound/whatsapp-curiosity-gap-v1/03-video-roteiro.md`) foi revisado para abrir com um gatilho de dor por loss aversion — "perda invisível de clientes" — em vez de só apresentar o ganho. Decisão: um vídeo único e genérico para todos os tracks (não uma versão por track), mantendo a dor universal o suficiente para funcionar em qualquer negócio local com presença no Google. Os previews técnicos (SEO, MapRanking, otimização de perfil, website) podem aparecer visualmente na tela em motion graphics — só não são narrados com jargão técnico.
