@@ -10,9 +10,9 @@
 
 O funil v3 (WhatsApp) atual termina em CTA de trial self-serve, e a análise do gargalo já diagnosticou que a queda ocorre depois da resposta: sem prova social própria, o pitch por texto frio não gera credibilidade suficiente para converter resposta em ação.
 
-Este redesenho troca o CTA final de "confia e assina" por "vem ver com seus próprios olhos". A demo passa a ser o único lugar onde o mecanismo (avaliações do Google, SEO, ranking no Maps) é revelado — quem fecha a credibilidade é o founder ao vivo, não a mensagem escrita.
+Este redesenho troca o CTA final de "toma o lead magnet e faz uma demo" por "vem vero que tenho para te oferecer"(+valor). A demo passa a ser o único lugar onde o mecanismo (avaliações do Google, SEO, ranking no Maps) é revelado — quem fecha a credibilidade é o founder ao vivo, não a mensagem escrita.
 
-O curiosity gap substitui a entrega direta do diagnóstico: em vez de soltar o lead magnet na primeira mensagem, vende-se a *existência* do diagnóstico. Isso filtra quem não tem curiosidade mínima e aumenta o valor percebido do que será entregue na demo (reciprocidade mais forte).
+O curiosity gap substitui a entrega direta do diagnóstico: em vez de soltar o lead magnet na primeira mensagem, vende-se a *existência* do diagnóstico completo. Isso filtra quem não tem curiosidade mínima e aumenta o valor percebido do que será entregue na demo (reciprocidade mais forte).
 
 ---
 
@@ -35,10 +35,8 @@ Segmentação e ICP (Sweet Spot, tracks 1A/1B/2 — ver [[concepts/tracks-prospe
    interessante. Faz sentido eu te mostrar?"
         ↓ (resposta positiva)
 3. Mensagem personalizada (nome + nicho do negócio) + vídeo fixo
-   anexado no mesmo envio
-        ↓ (resposta)
-4. CTA de demo (gate rígido)
-        ↓ sem resposta
+   anexado no mesmo envio com CTA de demo
+        ↓ (não resposta)
 5. Follow-up — EM ABERTO (ver Questões Abertas)
 ```
 
@@ -56,21 +54,6 @@ O vídeo é único e reaproveitável (não personalizado por lead) — só a men
 ### Passo 4 — regra do gate (sem excepção)
 
 Nenhuma informação do diagnóstico completo (ranking, SEO, site, bullet points) sai fora da demo. Se o lead pedir "manda por mensagem", a resposta reforça o valor de ver ao vivo e mantém o convite de demo em aberto — sem ceder versão reduzida por texto. Protege contra o padrão já observado no funil anterior ("enrolando" após receber diagnóstico sem compromisso).
-
----
-
-## Cold call (Fase 2 — desenhado, não priorizado)
-
-```
-Abertura (gap de confiança em 7s — Status+Alignment+Credibility+Intrigue)
-        ↓
-"Separei um raio-x do Google de vocês, achei interessante o que encontrei.
-Consigo te mostrar numa call rápida de 10 minutos — quando fica bom pra você?"
-        ↓
-Fecha demo direto na ligação (sem intermediário)
-```
-
-Dois papéis no fluxo completo (quando priorizado): canal de entrada próprio (Track 2) e escalada de follow-up quando o WhatsApp não responde após o vídeo. Mesma mecânica de gap de confiança em ambos, muda só o contexto de abertura.
 
 ---
 
