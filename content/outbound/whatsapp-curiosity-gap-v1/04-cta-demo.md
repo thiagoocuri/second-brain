@@ -8,7 +8,7 @@ Quer que eu te mostre tudo isso ao vivo — a posição de vocês, os pontos esp
 
 ## Regra do gate — resposta padrão se o lead pedir "manda por texto"
 
-Entendo! Mas o raio-x completo tem uns pontos visuais que ficam bem mais claros mostrando na tela — em 10 minutos você já sai sabendo exatamente onde estão as oportunidades, sem enrolação. Prefere hoje à tarde ou amanhã de manhã?
+Entendo! Mas o diagnóstico completo tem uns pontos visuais que ficam bem mais claros mostrando na tela — em 10 minutos você já sai sabendo exatamente onde estão as oportunidades, sem enrolação. Prefere hoje à tarde ou amanhã de manhã?
 
 ## Regra do gate — se insistir uma segunda vez
 

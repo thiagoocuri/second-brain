@@ -31,7 +31,7 @@ Segmentação e ICP (Sweet Spot, tracks 1A/1B/2 — ver [[concepts/tracks-prospe
 1. Quebra-gelo (igual ao v3 — 3 variantes anti-ban)
         ↓ (resposta)
 2. Perguntas de contexto + curiosity gap
-   "Tenho um raio-x do Google de vocês que separei — achei
+   "Tenho um diagnóstico de visibilidade de vocês que separei — achei
    interessante. Faz sentido eu te mostrar?"
         ↓ (resposta positiva)
 3. Mensagem personalizada (nome + nicho do negócio) + vídeo fixo
@@ -48,7 +48,7 @@ Ainda não decidido se a mensagem abre com uma pergunta de contexto ("qual o mai
 
 O vídeo é único e reaproveitável (não personalizado por lead) — só a mensagem de texto que o acompanha é personalizada (nome, nicho). Conteúdo do vídeo:
 
-- Foca em **takeaways/outcomes**, não no mecanismo: menciona que existe um "raio-x do Google", site gratuito, pontos de melhora — sem entrar em avaliações, SEO técnico ou como o ranking funciona.
+- Foca em **takeaways/outcomes**, não no mecanismo: menciona que existe um "diagnóstico de visibilidade", site gratuito, pontos de melhora — sem entrar em avaliações, SEO técnico ou como o ranking funciona.
 - Visual dinâmico (não é lista de texto) — motivo de ser vídeo em vez de mensagem longa.
 
 ### Passo 4 — regra do gate (sem excepção)

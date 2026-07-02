@@ -18,7 +18,7 @@ O v3 terminava em CTA de trial self-serve, e o gargalo identificado ([[analyses/
 | Etapa | Arquivo | O que faz |
 |---|---|---|
 | 1. Quebra-gelo | *(reuso do v3, sem arquivo novo)* | Filtra bots, abre a conversa |
-| 2. Curiosity gap | [02-curiosity-gap.md](02-curiosity-gap.md) | 2 variantes (A/B) vendendo a existência do raio-x, sem entregar nada |
+| 2. Curiosity gap | [02-curiosity-gap.md](02-curiosity-gap.md) | 2 variantes (A/B) vendendo a existência do diagnóstico de visibilidade, sem entregar nada |
 | 3. Mensagem + vídeo | [03-mensagem-personalizada.md](03-mensagem-personalizada.md) · [03-video-roteiro.md](03-video-roteiro.md) | Texto personalizado (nome/nicho) + vídeo fixo genérico mostrando takeaways, não o mecanismo |
 | 4. CTA de demo (gate) | [04-cta-demo.md](04-cta-demo.md) | Convite pra demo + scripts de recusa quando o lead pede o diagnóstico por texto |
 | 5. Follow-up | [05-followup-cold-call.md](05-followup-cold-call.md) | Sem resposta em 24-48h → escala para ligação (decisão de 2026-07-01) |

@@ -5,7 +5,7 @@ Teste A/B: metade da base recebe Variante A, metade recebe Variante B.
 
 ## Variante A — gap direto
 
-Oi {Nome}! Separei um raio-x rápido do perfil de {Negocio} no Google e achei um ponto que imagino que vocês nem sabem que tá acontecendo. Faz sentido eu te mostrar?
+Oi {Nome}! Separei um diagnóstico de visibilidade rápido do perfil de {Negocio} no Google e achei um ponto que imagino que vocês nem sabem que tá acontecendo. Faz sentido eu te mostrar?
 
 ## Variante B — pergunta de contexto antes do gap
 
@@ -13,8 +13,8 @@ Oi {Nome}! Rapidinho — hoje, quando um cliente novo pesquisa {Negocio} no Goog
 
 (aguardar resposta)
 
-Fiz um raio-x rápido do perfil de vocês e achei um ponto que imagino que vocês nem sabem que tá acontecendo. Faz sentido eu te mostrar?
+Fiz um diagnóstico de visibilidade rápido do perfil de vocês e achei um ponto que imagino que vocês nem sabem que tá acontecendo. Faz sentido eu te mostrar?
 
 ## Critério de sucesso do teste
 
-Métrica: taxa de resposta positiva (aceita ver o raio-x) por variante, sobre o total que respondeu o quebra-gelo. Rodar por pelo menos 100 envios por variante antes de declarar vencedora.
+Métrica: taxa de resposta positiva (aceita ver o diagnóstico) por variante, sobre o total que respondeu o quebra-gelo. Rodar por pelo menos 100 envios por variante antes de declarar vencedora.

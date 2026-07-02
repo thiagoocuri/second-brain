@@ -8,7 +8,7 @@ a abertura de reengajamento.
 ## Abertura (fecha o gap de confiança em ~7 segundos)
 
 "Oi, {Nome}? Aqui é o Thiago — te mandei uma mensagem no WhatsApp com um vídeo
-sobre um raio-x que separei do perfil de {Negocio} no Google, não sei se chegou
+sobre um diagnóstico de visibilidade que separei do perfil de {Negocio} no Google, não sei se chegou
 a ver. Tem 2 minutinhos agora?"
 
 ## Se disser que sim (tem 2 minutos)
