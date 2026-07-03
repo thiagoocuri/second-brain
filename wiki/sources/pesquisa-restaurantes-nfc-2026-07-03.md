@@ -15,7 +15,7 @@ Achado central: a maioria dos restaurantes visitados **não precisa** — ou nã
 
 Porém, surgiu interesse genuíno em uma solução **diferente**: coleta de avaliação no ponto de contato físico, sem necessidade de dados do cliente. O mecanismo: um cartão físico com NFC (Near Field Communication) que, ao ser aproximado ao celular pelo próprio cliente, abre diretamente a página de avaliação do Google do estabelecimento. Um fornecedor chinês identificado pelo fundador consegue produzir e importar esses cartões a custo baixo.
 
-O modelo de negócio explorado: entregar **1 cartão gratuitamente** (lead magnet presencial) e cobrar pelos demais. Isso reposiciona a aquisição de clientes de outbound digital (WhatsApp Bulker) para outbound físico (visita + produto tangível).
+O modelo de negócio explorado: o NFC card **substitui o WhatsApp como mecanismo de coleta** dentro de um bundle completo de reputação (respostas automáticas + repost Instagram + SEO local + site opcional). O cartão é incluso no setup — o MRR vem do serviço, não da venda de cartões. Entregar 1 cartão gratuitamente na visita presencial funciona como lead magnet físico para abrir a conversa sobre o bundle completo.
 
 ## Key Claims
 
@@ -23,8 +23,9 @@ O modelo de negócio explorado: entregar **1 cartão gratuitamente** (lead magne
 - Existe interesse real em "gerar mais avaliações" — o problema de reputação é percebido, mas a solução precisa encaixar no fluxo do restaurante (sem dados do cliente, sem processo novo).
 - O cartão NFC resolve o problema de coleta de forma radicalmente mais simples: cliente toca o cartão → celular abre a página de avaliação. Zero fricção, zero dados pessoais necessários.
 - Fornecedor chinês identificado consegue fornecer os cartões a custo unitário baixo (estimativa: centavos a poucos reais por unidade).
-- Modelo de aquisição proposto: 1 cartão grátis entregue pessoalmente → demonstração do funcionamento → venda de pacotes adicionais.
-- Nenhum restaurante expressou interesse no pacote completo de automação WhatsApp + filtro de avaliações.
+- Modelo de aquisição proposto: 1 cartão grátis entregue pessoalmente → demonstração do funcionamento → venda do bundle completo (NFC card como coleta + respostas automáticas + repost Instagram + SEO local).
+- O cartão não é o produto; é o canal de coleta substituto ao WhatsApp para segmento sem dados do cliente.
+- Nenhum restaurante expressou interesse no pacote WhatsApp + filtro — mas o interesse em gestão de reputação completa com o cartão como mecanismo de coleta está em aberto.
 
 ## Entities
 
@@ -36,7 +37,7 @@ O modelo de negócio explorado: entregar **1 cartão gratuitamente** (lead magne
 
 ## Contradictions & Tensions
 
-- O interesse em NFC cards **contradiz** a classificação atual de restaurantes como segmento "evitar" em [[entities/avalyse]]. O bloqueio (falta de coleta de celular) se mantém para o produto atual, mas o NFC card contorna esse bloqueio com um produto diferente.
+- O interesse em NFC cards **contradiz** a classificação atual de restaurantes como segmento "evitar" em [[entities/avalyse]]. O bloqueio (falta de coleta de celular) se mantém para o produto WhatsApp atual, mas o bundle com NFC card contorna esse bloqueio ao substituir o mecanismo de coleta.
 - O NFC card não permite filtragem de sentimento — qualquer cliente (satisfeito ou insatisfeito) pode tocar o cartão e escrever qualquer avaliação. Isso contraria o diferencial atual de [[filtragem-de-avaliacoes]] da Avalyse, mas pode ser mais consistente com as políticas do Google (evitando [[review-gating]]).
 
 ## Open Questions

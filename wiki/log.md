@@ -7,9 +7,9 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 ## [2026-07-03] ingest + analysis | Pesquisa de Campo — Restaurantes e NFC Review Card
 
-- Pesquisa presencial em restaurantes confirmou bloqueio estrutural do produto WhatsApp (sem coleta de celular), mas revelou interesse em coleta física de avaliações via [[nfc-review-card]]: cartão NFC de fornecedor chinês que abre a página de avaliação do Google ao toque do celular. Criada source [[sources/pesquisa-restaurantes-nfc-2026-07-03]] e conceito [[concepts/nfc-review-card]].
-- Análise detalhada [[analyses/analise-nfc-card-restaurantes]] avaliou 4 modelos de negócio: venda de cartões (descartado, sem MRR), cartão + assinatura de analytics, cartão como lead magnet para o produto WhatsApp, e combo NFC + WhatsApp para ICPs existentes.
-- Recomendação: NFC card é ferramenta de prospecção presencial e produto complementar, **não pivot e não produto autônomo**. Foco imediato permanece na conversão do trial Hey Peppers até 2026-07-15. Após 1° cliente pagante, pedir amostra ao fornecedor e testar como canal de entrada presencial.
+- Pesquisa presencial em restaurantes confirmou bloqueio estrutural do produto WhatsApp (sem coleta de celular), mas revelou interesse em gestão de reputação completa com NFC card como mecanismo de coleta substituto. Criados: [[sources/pesquisa-restaurantes-nfc-2026-07-03]], [[concepts/nfc-review-card]] e [[analyses/analise-nfc-card-restaurantes]].
+- **Framing corrigido após discussão:** o NFC card não é produto autônomo nem apenas lead magnet — é o canal de coleta que substitui o WhatsApp dentro do bundle completo: card + respostas automáticas + repost Instagram + SEO local (+ site opcional). MRR vem do serviço, cartão incluso no setup.
+- Recomendação: hipótese validada conceitualmente; nenhuma ação antes de fechar o 1° cliente (deadline 2026-07-15). Após fechar: pedir amostra ao fornecedor e validar bundle com 2–3 restaurantes com as 3 perguntas definidas na análise.
 
 ---
 

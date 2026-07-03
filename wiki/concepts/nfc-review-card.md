@@ -11,7 +11,9 @@ sources: 1
 
 Cartão físico com chip NFC (Near Field Communication) programado com a URL de avaliação do Google de um estabelecimento específico. Quando o cliente aproxima o celular do cartão, o browser abre automaticamente a página de avaliação — sem app, sem conta, sem etapas adicionais. Funciona em qualquer smartphone moderno com NFC ativo (padrão em Android desde 2012; iPhone desde o XS/iOS 14 para links externos).
 
-Diferença fundamental em relação ao fluxo WhatsApp da [[Avalyse]]: **não exige que o estabelecimento possua o número de celular do cliente.** O gatilho é físico e voluntário — o cliente toca porque quer, não porque recebeu uma mensagem.
+**Posição no produto [[Avalyse]]:** o NFC card não é um produto autônomo — é o **mecanismo de coleta substituto ao WhatsApp** para segmentos sem coleta de dados do cliente (restaurantes, varejo de passagem, etc.). O restante do serviço permanece igual: respostas automáticas, repost no Instagram, SEO local. O MRR vem do serviço completo; o cartão é incluso no setup.
+
+Diferença fundamental em relação ao fluxo WhatsApp: **não exige que o estabelecimento possua o número de celular do cliente.** O gatilho é físico e voluntário — o cliente toca porque quer, não porque recebeu uma mensagem.
 
 ## Evidence & Examples
 
