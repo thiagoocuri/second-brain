@@ -50,17 +50,30 @@ O cartão NFC **não é o produto**. É o canal de coleta. O produto é o servi�
 
 ## Modelo de negócio
 
-**Assinatura mensal de serviço completo**, com o cartão NFC incluído no setup (custo marginal desprezível).
+**Setup fee (único) + mensalidade recorrente.** O trabalho pesado e variável é cobrado uma vez; o serviço contínuo e automatizado gera MRR.
 
-Estrutura sugerida:
+### Estrutura de precificação
 
-| Plano | Inclui | Preço estimado |
-|---|---|---|
-| Reputação Básica | NFC card setup + respostas automáticas + repost Instagram | R$197–297/mês |
-| Reputação + SEO | Básico + otimização de palavras-chave no perfil Google + relatório mensal | R$397–497/mês |
-| Reputação + SEO + Site | SEO + site de 1 página otimizado para Maps | R$597–797/mês (ou one-time + mensalidade) |
+| Componente | O que cobre | Tipo | Valor referência |
+|---|---|---|---|
+| **Setup fee** | Site otimizado + configuração SEO inicial + NFC card programado + integração Google/Instagram | One-time | ~R$2.500 (a validar) |
+| **Mensalidade** | Respostas automáticas a reviews + repost no Instagram + relatório mensal + reposição de cards | Recorrente (MRR) | R$197–397/mês |
 
-**Observação de ticket:** o restaurante tem margem menor que clínica estética. O ticket de R$397/mês (produto atual) pode ser pesado para restaurantes menores. O plano básico a R$197–297 pode ser o ponto de entrada, com upsell de SEO e site como expansão natural.
+### Por que esse modelo funciona melhor que só mensalidade
+
+1. **Cobre o custo real do onboarding.** Criar um site otimizado, configurar SEO e programar os cards é trabalho variável com custo real de tempo. Embutir esse custo na mensalidade distorce o unit economics — o cliente paga 6 meses antes do break-even.
+
+2. **Cria comprometimento do cliente.** Quem pagou R$2.500 de setup não cancela no segundo mês. A taxa de setup funciona como filtro de seriedade — elimina clientes que assinariam por curiosidade e churnariam rápido.
+
+3. **Deixa a mensalidade competitiva.** Com o custo inicial separado, a mensalidade pode ser mais baixa (R$197–297), tornando o ticket mensal mais fácil de justificar para um restaurante de margem menor.
+
+4. **Posicionamento de agência especializada.** Uma agência generalista cobra setup + mensalidade para gestão de redes sociais, tráfego pago, site, branding. Esse bundle faz o mesmo, mas focado exclusivamente em reputação. O cliente entende claramente pelo que está pagando.
+
+### Analogia de posicionamento
+
+> Não é uma agência que faz tudo e entende de nada a fundo. É um especialista em reputação que, como subproduto do serviço, entrega site e SEO — porque reputação sem visibilidade não funciona.
+
+A diferença é o foco: o objetivo declarado é "sua nota e seu ranking no Google". O site e o SEO são meios, não fins. Isso evita a comparação direta com agências generalistas e simplifica a conversa de vendas.
 
 ---
 

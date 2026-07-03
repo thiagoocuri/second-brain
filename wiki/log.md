@@ -5,6 +5,13 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 ---
 
+## [2026-07-03] update | Bundle restaurante — modelo setup fee + mensalidade
+
+- Precificação definida: setup fee único (~R$2.500) cobre site + SEO + NFC card configurado; mensalidade recorrente (R$197–397/mês) cobre respostas automáticas + Instagram + relatório. Separa custo variável de onboarding do MRR limpo.
+- Posicionamento: especialista em reputação (não agência generalista) — site e SEO são meios para o objetivo de nota e ranking no Google, não serviços vendidos como fim. Análise [[analyses/analise-nfc-card-restaurantes]] atualizada com modelo completo e raciocínio de pricing.
+
+---
+
 ## [2026-07-03] ingest + analysis | Pesquisa de Campo — Restaurantes e NFC Review Card
 
 - Pesquisa presencial em restaurantes confirmou bloqueio estrutural do produto WhatsApp (sem coleta de celular), mas revelou interesse em gestão de reputação completa com NFC card como mecanismo de coleta substituto. Criados: [[sources/pesquisa-restaurantes-nfc-2026-07-03]], [[concepts/nfc-review-card]] e [[analyses/analise-nfc-card-restaurantes]].
