@@ -5,6 +5,14 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 ---
 
+## [2026-07-03] ingest + analysis | Pesquisa de Campo — Restaurantes e NFC Review Card
+
+- Pesquisa presencial em restaurantes confirmou bloqueio estrutural do produto WhatsApp (sem coleta de celular), mas revelou interesse em coleta física de avaliações via [[nfc-review-card]]: cartão NFC de fornecedor chinês que abre a página de avaliação do Google ao toque do celular. Criada source [[sources/pesquisa-restaurantes-nfc-2026-07-03]] e conceito [[concepts/nfc-review-card]].
+- Análise detalhada [[analyses/analise-nfc-card-restaurantes]] avaliou 4 modelos de negócio: venda de cartões (descartado, sem MRR), cartão + assinatura de analytics, cartão como lead magnet para o produto WhatsApp, e combo NFC + WhatsApp para ICPs existentes.
+- Recomendação: NFC card é ferramenta de prospecção presencial e produto complementar, **não pivot e não produto autônomo**. Foco imediato permanece na conversão do trial Hey Peppers até 2026-07-15. Após 1° cliente pagante, pedir amostra ao fornecedor e testar como canal de entrada presencial.
+
+---
+
 ## [2026-06-27] ingest | SOCi — Deep Research Report
 
 - Ingest de pesquisa aprofundada sobre a SOCi: $237M em funding, ~1.000 marcas, ~3M pontos de venda, líder de categoria em marketing local multilocal. Criada entidade [[entities/soci]] com perfil completo (fundador Afif Khoury, funding JMI, produto Genius Agents, cases Sport Clips/Liberty Tax). Source [[sources/soci-deep-research-2026]] confirma que a SOCi é a empresa de referência por trás dos dados empíricos do pitch da Avalyse.

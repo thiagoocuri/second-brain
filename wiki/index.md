@@ -32,6 +32,7 @@ Content catalog. Updated on every ingest, query save, or lint pass.
 - [[sources/avalyse-funil-segmentacao-gatilhos-2026-06-27]] — Funil de segmentação (TA→SP→Persona), dois tracks de prospecção com sub-tracks, ativo silencioso e flywheel reputação-conteúdo: sessão estratégica decisiva da Avalyse (2026-06-27)
 - [[sources/dados-reviews-chatgpt]] — Estatísticas 2018–2026 sobre impacto de reviews Google: conversão, tráfego, ROI, KPIs e cenários (SOCi, BrightLocal, Whitespark) (2026-06-27)
 - [[sources/soci-deep-research-2026]] — Deep research sobre a SOCi: produto, funding ($237M), clientes, funil, onboarding e o que replicar na Avalyse (2026-06-27)
+- [[sources/pesquisa-restaurantes-nfc-2026-07-03]] — Pesquisa de campo presencial em restaurantes: falta de interesse em WhatsApp automation, interesse em NFC cards para coleta de reviews no ponto físico (2026-07-03)
 
 ---
 
@@ -155,6 +156,7 @@ Content catalog. Updated on every ingest, query save, or lint pass.
 - [[concepts/metricas-reputacao]] — KPIs de reputação online com benchmarks, impacto financeiro por unidade e cenários de meta em 6 meses (2026-06-27)
 - [[concepts/flywheel-reputacao-conteudo]] — Loop de reforço: reviews alimentam Maps (ranking) + Instagram (prova social orgânica) simultaneamente (2026-06-27)
 - [[concepts/tracks-prospecao]] — Arquitetura de dois tracks paralelos: Track 1 via Meta Ads Library (tráfego pago, sub-tracks 1A/1B) e Track 2 via Maps (reviews negativos) (2026-06-27)
+- [[concepts/nfc-review-card]] — Cartão físico NFC programado com URL de avaliação Google: zero fricção, zero dados do cliente, lead magnet presencial e complemento ao WhatsApp automation (2026-07-03)
 
 ---
 
@@ -174,3 +176,4 @@ Content catalog. Updated on every ingest, query save, or lint pass.
 - [[analyses/framework-sales-call-avalyse]] — Framework de sales call em 4 fases: Diagnóstico → Pitch único → Controle por perguntas → Fechamento direto (2026-06-24)
 - [[analyses/dados-reviews-resumo]] — Referência rápida com dados de ROI, benchmarks, cenários e fórmula de pitch prontos para uso (2026-06-27)
 - [[analyses/soci-replicacao-avalyse]] — 9 táticas do playbook da SOCi adaptadas para a Avalyse com prioridade e prazo de execução (2026-06-27)
+- [[analyses/analise-nfc-card-restaurantes]] — NFC card: análise de viabilidade, 4 modelos de negócio, posição estratégica e próximos passos; recomendação: ferramenta de prospecção presencial, não produto autônomo (2026-07-03)

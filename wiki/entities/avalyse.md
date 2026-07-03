@@ -74,7 +74,7 @@ SaaS de automação de reputação online para prestadores de serviço locais, f
 ### Evitar por agora
 | Nicho                | Motivo                                                                                  |
 | -------------------- | --------------------------------------------------------------------------------------- |
-| Restaurante / bar    | Margem baixa, dono sobrecarregado, churn alto, sem coleta de forma de numero de celular |
+| Restaurante / bar    | Margem baixa, dono sobrecarregado, churn alto, sem coleta de número de celular — **exceção: [[nfc-review-card]] contorna o bloqueio de dados, mas modelo de receita recorrente ainda não validado** (ver [[analyses/analise-nfc-card-restaurantes]]) |
 | Farmácia             | Apenas 8% de influência de avaliações no setor (pesquisa Harmo 2025)                    |
 | Loja de departamento | Grande demais — decisor não é o dono                                                    |
 
