@@ -8,13 +8,13 @@ tags:
   - b2b-local
   - avalyse
 created: 2026-04-15
-updated: 2026-06-27
+updated: 2026-07-09
 sources: 8
 ---
 
 ## Overview
 
-SaaS de automação de reputação online para prestadores de serviço locais, fundado por [[thiago-ccuri]]. **Reposicionamento (2026-06-27):** a Avalyse não é gestão de reputação — é ativação do [[ativo-silencioso]]: os clientes satisfeitos que o negócio já tem e não usa. Cada review coletado alimenta três frentes simultaneamente: Google Maps (ranking orgânico), Instagram (conteúdo de prova social), e redução de dependência de tráfego pago. Automatiza o fluxo completo de coleta e filtragem de avaliações no Google Maps via WhatsApp, sem exigir mudança na rotina do cliente. Estágio atual (2026-06-24): validação — 0 clientes pagantes, ~400 msgs disparadas, 1 reunião agendada (primeira demo real). Operação solo, fundador de 17 anos estudando em paralelo.
+SaaS de automação de reputação online para prestadores de serviço locais, fundado por [[thiago-ccuri]]. **Reposicionamento (2026-06-27):** a Avalyse não é gestão de reputação — é ativação do [[ativo-silencioso]]: os clientes satisfeitos que o negócio já tem e não usa. Cada review coletado alimenta três frentes simultaneamente: Google Maps (ranking orgânico), Instagram (conteúdo de prova social), e redução de dependência de tráfego pago. Automatiza o fluxo completo de coleta e filtragem de avaliações no Google Maps via WhatsApp, sem exigir mudança na rotina do cliente. **Pivot em andamento (2026-07-09):** produto deixa de ser um pacote fixo único e passa a ter configuração específica por nicho — ver [[oferta-diversificada-por-nicho]]. Estágio atual (2026-07-09): validação — 0 clientes pagantes, 0 mensagens disparadas nesta semana (número banido, ban prolongado desde 22/06), 1 trial que deu ghost (Hey Peppers), 2 reuniões informais agendadas para a semana. Operação solo, fundador de 17 anos estudando em paralelo.
 
 ## Como funciona
 
@@ -47,8 +47,10 @@ SaaS de automação de reputação online para prestadores de serviço locais, f
 - **Canal de aquisição:** Cold outreach WhatsApp com diagnóstico gratuito de ranking como isca ([[MapRanking]]), operacionalizado via [[whatsapp-bulker]]. Listas de leads construídas via [[Clay]]. [[avalyse-scripts-cold-outreach-v1]]
 - **Integração de CRM:** Clientes com API aberta no CRM são integrados diretamente via GHL API. Clientes sem API usam página dedicada (nome + celular) que chama a GHL API e cria o contato na subconta — solução em planejamento. LeadConnector nativo do GHL descartado por ineficiência. [[avalyse-contexto-produto-v1]]
 - **Restrição estrutural do GHL (2026-06-19):** plano atual suporta 3 subcontas (1 reservada para uso próprio = **máximo 2 clientes simultâneos**). Upgrade para subcontas ilimitadas custa ~R$1.500/mês. Gatilho de upgrade: MRR ≥ R$1.500 (~4 clientes). Até lá, onboarding é manual e deliberadamente limitado — o teto de capacidade é um buffer de qualidade, não um bloqueio. Onboarding automatizado é prioridade *após* o upgrade, não antes.[[thinking-in-systems-avalyse]]]
-- **Objetivo 3 meses (até 2026-07-15):** 1° cliente pagante + início do desenvolvimento da plataforma própria em código. [[avalyse-contexto-produto-v1]] — **faltam 21 dias** (2026-06-24). Ver [[analyses/deadline-primeiro-cliente-2026-07-15]].
-- **Dados de execução (até 2026-06-25):** ~407 msgs disparadas acumulado. Quebra-gelo: 12,6% resposta (acima do benchmark 8%). Follow-up: 55,6% resposta. **1 trial ativo** (Hey Peppers, escola, RS — início 26/06, 7 dias). 0 clientes pagantes. Academias SP confirmado como nicho ruim (1,2% resposta). Óticas ABC: 56% resposta mas 0 convertidos — gargalo pós-resposta. Ban em 22/06 pausou toda a prospecção. Ver [[analyses/metricas-execucao-avalyse]].
+- **Objetivo 3 meses (até 2026-07-15):** 1° cliente pagante + início do desenvolvimento da plataforma própria em código. [[avalyse-contexto-produto-v1]] — **faltam 6 dias** (2026-07-09). Ver [[analyses/deadline-primeiro-cliente-2026-07-15]].
+- **Dados de execução (até 2026-07-09):** ~407 msgs disparadas acumulado (nenhuma mensagem nova nesta semana — número banido). **Trial Hey Peppers deu ghost** (dono parou de responder, não converteu). 2 reuniões informais agendadas para esta semana (fora do funil de tracking padrão). 0 clientes pagantes. Ban de 22/06 segue em andamento — mais de 2 semanas sem recuperação. Ver [[analyses/metricas-execucao-avalyse]].
+- **Pivot de produto (2026-07-09):** pesquisa de campo em ~15 restaurantes (Pinheiros, SP) revelou que o fluxo padrão não funciona para o nicho por falta de coleta de celular. Solução proposta: cards NFC (compra via Alibaba) — cliente aproxima o celular e cai direto na página de avaliação, sem precisar de contato prévio. Pacote para restaurante: cards NFC + sistema de avaliação + resposta automática + dashboard + reuso no Instagram. Upsell transversal: serviço opcional de site + SEO, cobrado como pagamento único. Ver [[oferta-diversificada-por-nicho]].
+- **Nova estratégia de outbound (2026-07-09):** substituição da pergunta de abertura ("quer o diagnóstico?") por vídeo de diagnóstico personalizado (Loom-style), enviado por qualquer canal (WhatsApp, Instagram, LinkedIn, cold call, presencial). Ver [[loom-outreach-personalizado]].
 - **Meta fim de 2026:** R$30k MRR. Ao pricing atual, ~50–75 clientes. [[contexto-thiago-chamlian]]
 - **Fundador:** [[thiago-ccuri]], 17 anos, estudante — janelas de trabalho fora de seg–sex 7:25–16:00. Runway R$10k, sustentado pelos pais. [[contexto-thiago-chamlian]]
 - **Negócio anterior:** [[denarius-wd]] (agência de marketing ticket alto) — encerrou sem clientes. Mesma trava de aquisição está sendo enfrentada na Avalyse. [[contexto-thiago-chamlian]]
@@ -69,12 +71,12 @@ SaaS de automação de reputação online para prestadores de serviço locais, f
 | Oficina mecânica | ✅ Prioritário | Desconfiança estrutural do setor = dor mais aguda; ticket R$300–3k; dono decide; WA nativo |
 | Clínica veterinária | ✅ Alto potencial | Alta carga emocional; review negativo = devastador; dono sensível |
 | Academia de ginástica | ❌ Testado — ruim | 168 msgs disparadas, 1,2% resposta, 0 convertidos (jun/2026) |
-| Escola de idiomas / habilidades | ⚠️ Em teste | Hey Peppers (Niqui Lang, RS) — franquia de 31 unidades; alunos entram continuamente; pais pesquisam no Google antes de matricular. Incógnita: gatilho do WhatsApp (pós-matrícula? pós-aula inaugural?) precisa ser definido no onboarding. Se funcionar → potencial de indicação para outras franqueadas. |
+| Escola de idiomas / habilidades | ❌ Testado — ruim | Hey Peppers (Niqui Lang, RS) deu ghost após trial de 7 dias (jul/2026) — não converteu |
+| **Restaurante / bar** | ✅ Prioritário (2026-07-09) | **Reclassificado.** Pesquisa de campo (~15 visitas, Pinheiros SP) mostrou reviews como fator mais importante do nicho e objeção de preço mais fácil de vencer. Gargalo antigo (sem coleta de celular) resolvido via card NFC. Ver [[oferta-diversificada-por-nicho]]. |
 
 ### Evitar por agora
 | Nicho                | Motivo                                                                                  |
 | -------------------- | --------------------------------------------------------------------------------------- |
-| Restaurante / bar    | Margem baixa, dono sobrecarregado, churn alto, sem coleta de forma de numero de celular |
 | Farmácia             | Apenas 8% de influência de avaliações no setor (pesquisa Harmo 2025)                    |
 | Loja de departamento | Grande demais — decisor não é o dono                                                    |
 
@@ -103,6 +105,7 @@ SaaS de automação de reputação online para prestadores de serviço locais, f
 | **Apresentação Canva** | ✅ Existe | Slides usados durante o pitch na reunião de demo. Cobre: automação de mensagens, filtro de reviews, respostas automáticas, engajamento no Instagram. Apresentado com compartilhamento de tela no Zoom. |
 | **Script de Sales Call** | ✅ Existe | Roteiro completo da reunião de demo. Estrutura: (1) Abertura — rapport + cutucada na dor + perguntas de diagnóstico; (2) Pitch — demo via Canva + prova social Review Harvest + preços; (3) CTA — integração na hora ou agendamento de onboarding. Arquivo: `raw/avalyse-demo-meeting-script-v1.md` |
 | **Script de Onboarding** | ❌ Não criado | Roteiro para a sessão de setup técnico (~20min): criação de subconta no GHL, integração WhatsApp + Instagram + Google Meu Negócio, configuração do workflow. A ser desenvolvido. |
+| **Cards NFC (restaurante)** | 🔵 Planejado (2026-07-09) | Card físico comprado no Alibaba; cliente aproxima o celular e cai direto na página de avaliação. Resolve a falta de coleta de celular no nicho de restaurante. Vendido junto com o pacote de assinatura. |
 
 ## Appearances
 
@@ -110,4 +113,4 @@ SaaS de automação de reputação online para prestadores de serviço locais, f
 
 ## Related
 
-[[thiago-ccuri]], [[denarius-wd]], [[whatsapp-bulker]], [[Clay]], [[MapRanking]], [[Whitespark]], [[reputacao-online]], [[google-meu-negocio]], [[prova-social]], [[lead-magnet]], [[Outreach]], [[GoHighLevel]], [[filtragem-de-avaliacoes]], [[review-gating]], [[bootstrapping-saas]], [[ativo-silencioso]], [[flywheel-reputacao-conteudo]], [[tracks-prospecao]]
+[[thiago-ccuri]], [[denarius-wd]], [[whatsapp-bulker]], [[Clay]], [[MapRanking]], [[Whitespark]], [[reputacao-online]], [[google-meu-negocio]], [[prova-social]], [[lead-magnet]], [[Outreach]], [[GoHighLevel]], [[filtragem-de-avaliacoes]], [[review-gating]], [[bootstrapping-saas]], [[ativo-silencioso]], [[flywheel-reputacao-conteudo]], [[tracks-prospecao]], [[oferta-diversificada-por-nicho]], [[loom-outreach-personalizado]]

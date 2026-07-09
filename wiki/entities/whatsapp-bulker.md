@@ -7,7 +7,7 @@ tags:
   - internal
   - avalyse
 created: 2026-04-21
-updated: 2026-06-24
+updated: 2026-07-09
 sources: 0
 ---
 
@@ -58,7 +58,7 @@ Ban ocorre quando o volume ultrapassa o threshold do WhatsApp. O cap teórico p�
 | Data | Duração | Impacto |
 |------|---------|---------|
 | jun/2026 (anterior) | ~2h | — |
-| 2026-06-22 | em andamento (tentativa retorno 2026-06-24) | prospecção 100% pausada |
+| 2026-06-22 | **prolongado — ainda em andamento em 2026-07-09** (mais de 2 semanas) | prospecção 100% pausada; 0 msgs enviadas na semana de 2026-07-09 |
 
 Ver [[anti-ban-whatsapp]] para opções de escala.
 

@@ -155,6 +155,8 @@ Content catalog. Updated on every ingest, query save, or lint pass.
 - [[concepts/metricas-reputacao]] — KPIs de reputação online com benchmarks, impacto financeiro por unidade e cenários de meta em 6 meses (2026-06-27)
 - [[concepts/flywheel-reputacao-conteudo]] — Loop de reforço: reviews alimentam Maps (ranking) + Instagram (prova social orgânica) simultaneamente (2026-06-27)
 - [[concepts/tracks-prospecao]] — Arquitetura de dois tracks paralelos: Track 1 via Meta Ads Library (tráfego pago, sub-tracks 1A/1B) e Track 2 via Maps (reviews negativos) (2026-06-27)
+- [[concepts/loom-outreach-personalizado]] — Vídeo personalizado (60-90s) substitui pergunta de abertura no cold outreach; 30% vs. 8% reply rate; resolve pendência do lint de 12/06 (2026-07-09)
+- [[concepts/oferta-diversificada-por-nicho]] — Pivot: pacote por vertical em vez de produto fixo; cards NFC para restaurante resolvem falta de coleta de celular; upsell de site+SEO (2026-07-09)
 
 ---
 

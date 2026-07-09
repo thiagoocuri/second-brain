@@ -3,17 +3,22 @@ title: "Deadline: Primeiro Cliente Pagante — até 2026-07-15"
 type: analysis
 tags: [avalyse, vendas, deadline, execução]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-09
 ---
 
 ## Contexto
 
-Meta declarada: 1° cliente pagante até **2026-07-15** (21 dias a partir de hoje, 2026-06-24).
+Meta declarada: 1° cliente pagante até **2026-07-15** (faltam **6 dias**, a partir de hoje 2026-07-09).
 
-Estado atual:
-- ~400 mensagens disparadas, 1 reunião agendada (hoje, 2026-06-24 — ainda não realizada)
+Estado atual (2026-07-09):
+- 0 mensagens novas disparadas desde 24/06 — número banido, ban prolongado (>15 dias, sem precedente na operação)
+- **Marco de decisão de 08/07 (1 semana antes do deadline) foi ultrapassado sem trial ativo** — o único trial rodado (Hey Peppers) deu ghost antes disso
+- 2 reuniões informais agendadas para esta semana, fora do funil de tracking padrão
 - 0 trials ativos, 0 clientes pagantes
-- Principal gargalo: ban de WhatsApp limita volume + baixa taxa de conversão para reunião (~0.25%)
+- Pivot de produto em andamento: oferta diversificada por nicho (cards NFC, restaurante) e nova estratégia de outbound via vídeo personalizado — ver [[oferta-diversificada-por-nicho]], [[loom-outreach-personalizado]]
+- Gargalo evoluiu: além da baixa conversão msg→reunião (~0.25%), agora há ghosting também no pós-trial — ver [[analyses/gargalo-conversao-outreach]]
+
+**Avaliação honesta:** segundo as regras que o próprio documento define, o marco de 08/07 já indicava que o problema está no fechamento/demo, não no outreach — mas o ban prolongado significa que o outreach também está de fato parado. Ambos os gargalos estão ativos simultaneamente, com 6 dias restantes.
 
 ---
 
@@ -66,6 +71,16 @@ O prazo de 2026-07-15 foi definido internamente. Não há consequência externa.
 ## Marco de decisão
 
 Se em **2026-07-08** (1 semana antes do deadline) não houver pelo menos 1 trial ativo → o gargalo está na demo, não no outreach. Nesse caso: gravar próxima demo, identificar ponto de quebra, ajustar script antes do último esforço de fechamento.
+
+**Resolução do marco (2026-07-09):** condição confirmada — não há trial ativo em 08/07. Mas o outreach também estava parado (ban), então o diagnóstico é duplo: gravar as 2 reuniões informais desta semana e tratá-las como as últimas oportunidades reais de fechar dentro do prazo. Se nenhuma converter, o Caminho C (deadline não atingido) passa a ser o cenário mais provável.
+
+## Janela final revisada (2026-07-09 → 2026-07-15)
+
+| Data | Ação |
+|------|------|
+| 09–11/07 | Realizar as 2 reuniões informais agendadas com o script atualizado (vídeo de diagnóstico personalizado se aplicável). Qualificar antes de pitchar. Se uma delas for restaurante, testar o ângulo do pacote diversificado. |
+| 11–13/07 | Se nenhuma reunião converteu, decidir: dobrar esforço nas duas próximas conversas ou aceitar Caminho C e já iniciar retrospectiva. |
+| 13–15/07 | Janela de fechamento final — foco total em quem demonstrou interesse real, sem abrir novas frentes. |
 
 ---
 

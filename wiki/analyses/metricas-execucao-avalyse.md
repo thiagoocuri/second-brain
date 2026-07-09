@@ -3,10 +3,10 @@ title: "Dashboard de Métricas — Execução Avalyse"
 type: analysis
 tags: [avalyse, métricas, funil, execução]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-09
 ---
 
-> Atualizado via protocolo [[protocolo-semanal]] (keyword: NEW DATA). Última atualização: 2026-06-24.
+> Atualizado via protocolo [[protocolo-semanal]] (keyword: NEW DATA). Última atualização: 2026-07-09.
 
 ---
 
@@ -19,12 +19,12 @@ updated: 2026-06-24
 | Quebra-gelo respondidos | 27 | 12,6% (acima do benchmark 8%) |
 | Follow-up enviados | 27 | — |
 | Follow-up respondidos | 15 | 55,6% |
-| Reuniões agendadas | 1 | — |
+| Reuniões agendadas | 1 (+ 2 informais na semana 2026-07-09, fora do funil de tracking) | — |
 | Convertidos (resposta → próximo passo) | 1 | — |
-| Trials iniciados | 1 | — |
+| Trials iniciados | 1 (Hey Peppers — encerrado sem conversão) | — |
 | Clientes pagantes | 0 | — |
 
-**Período da última atualização de dados:** 2026-05-25 a 2026-06-24.
+**Período da última atualização de dados:** 2026-05-25 a 2026-07-09. Sem novas mensagens disparadas desde 2026-06-24 — número banido.
 
 ---
 
@@ -46,6 +46,7 @@ updated: 2026-06-24
 |--------|------|-----------|-------------------|--------------------|----|---------|------|
 | até 2026-06-18 | ~400 | desconhecido | 1 | 0 | 0 | 0 | sim (1x, ~2h) |
 | 2026-05-25 a 2026-06-24 | 241 (período) | 27 QB + 15 FU | 1 | desconhecido | 0 | 0 | sim (22/06, duração desconhecida) |
+| 2026-06-24 a 2026-07-09 | 0 (banido) | 0 | 2 (informais, fora do funil) | desconhecido | 0 novos — Hey Peppers deu ghost | 0 | sim, mesmo ban de 22/06, ainda ativo (>15 dias) |
 
 ---
 
@@ -77,9 +78,11 @@ Taxa real atual (msgs → reunião): **~0.25%** — muito abaixo do estimado. Ve
 
 ## Trials ativos
 
-| Cliente | Nicho | Início | Duração | Contatos na base | Expectativa |
-|---------|-------|--------|---------|-----------------|-------------|
-| Hey Peppers (Niqui Lang, RS) | Escola | 2026-06-26 | 7 dias | ~115 | Baixa (base fixa, ICP não ideal). Objetivo: testimonial. |
+Nenhum trial ativo no momento (2026-07-09).
+
+| Cliente | Nicho | Início | Duração | Resultado |
+|---------|-------|--------|---------|-----------|
+| Hey Peppers (Niqui Lang, RS) | Escola | 2026-06-26 | 7 dias | **Encerrado — dono deu ghost.** Não converteu para pagante. |
 
 ---
 
@@ -96,3 +99,5 @@ Taxa real atual (msgs → reunião): **~0.25%** — muito abaixo do estimado. Ve
 - Padrão identificado (jun/2026): prospects respondem ao diagnóstico mas "enrolam" antes de converter — gargalo está no fechamento, não na abertura.
 - V3 (funil colapsado) mostrou melhor conversão que V1/V2, mas taxa absoluta ainda baixa.
 - Teto de capacidade GHL: 2 clientes simultâneos até MRR ≥ R$1.500.
+- **Novo padrão (2026-07-09):** o único trial ativo até então (Hey Peppers) também "enrolou" e sumiu — o gargalo de ghosting agora aparece em duas etapas do funil (pós-diagnóstico e pós-trial), não só na abertura.
+- Pivot de produto em andamento: oferta diversificada por nicho (cards NFC para restaurante) e nova estratégia de outbound via vídeo personalizado — ver [[oferta-diversificada-por-nicho]] e [[loom-outreach-personalizado]]. Sem dado de conversão ainda.

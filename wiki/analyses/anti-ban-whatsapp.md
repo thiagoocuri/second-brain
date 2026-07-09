@@ -3,7 +3,7 @@ title: "Estratégia Anti-Ban WhatsApp — Avalyse"
 type: analysis
 tags: [avalyse, whatsapp, anti-ban, outreach, infraestrutura]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-09
 ---
 
 > Atualizado via protocolo [[protocolo-semanal]] (keyword: NEW DATA).
@@ -70,13 +70,15 @@ Migrar do Baileys (unofficial) para a API oficial do Meta. Sem risco de ban por 
 
 ---
 
-## Recomendação atual (2026-06-24)
+## Recomendação atual (2026-07-09)
 
-**Prioridade 1:** calibrar o limite seguro real (quantas msgs/dia sem ban) antes de escalar.  
-**Prioridade 2:** adicionar 1 número em rotação quando o limite for confirmado.  
-**Prioridade 3:** cold call como canal paralelo para prospects que responderam mas não converteram.
+**Situação crítica:** o ban de 22/06 **não foi recuperado** — mais de 2 semanas sem WhatsApp como canal de prospecção, com o deadline de 1° cliente em 6 dias (2026-07-15). Isso invalida a suposição original de "recuperação em ~2h" e eleva a Opção 1 (múltiplos números) e a Opção 3 (cold call) de "escala" para "sobrevivência operacional imediata".
 
-**Situação imediata (2026-06-24):** 2° ban ocorreu em 22/06 — tentativa de retorno em 24/06. Enquanto número estiver banido, único canal de prospecção disponível é cold call.
+**Prioridade 1 (revisada):** assumir que este número pode não voltar tão cedo — migrar volume para cold call e/ou novo número **agora**, não esperar recuperação.
+**Prioridade 2:** adicionar 1+ números em rotação com warmup completo antes de reintroduzir volume alto.
+**Prioridade 3:** vídeo de diagnóstico personalizado ([[loom-outreach-personalizado]]) via canais alternativos (Instagram, LinkedIn, presencial) reduz dependência de volume WhatsApp.
+
+**Situação imediata (2026-07-09):** ban de 22/06 segue ativo — mais de 15 dias sem recuperação, muito acima do 1° incidente (~2h). Duração agora classificada como "prolongada", não mais como interrupção pontual.
 
 ---
 

@@ -3,7 +3,7 @@ title: "Análise do Gargalo de Conversão — Outreach Avalyse"
 type: analysis
 tags: [avalyse, outreach, conversão, gargalo, cold-outreach]
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-07-09
 ---
 
 > Atualizado via protocolo [[protocolo-semanal]] (keyword: NEW DATA).
@@ -43,6 +43,13 @@ O funil está quebrando, mas **onde exatamente** ainda é desconhecido por falta
 - "Trial 7 dias sem cartão" soa bom demais → gera ceticismo
 - Sem prova social própria, o pitch não é crível o suficiente
 
+### Etapa 4 — Trial ativo → ghost antes de converter (novo, 2026-07-09)
+**Sinal:** único trial realizado até agora (Hey Peppers) terminou com o dono sumindo, sem feedback, sem recusa explícita.
+**Hipóteses:**
+- ICP não ideal (base de contatos pequena, ~115, ciclo de matrícula não recorrente) reduzia a chance de o dono perceber valor no prazo do trial
+- Falta de onboarding guiado durante o trial — sem check-in ativo, o cliente esquece o produto
+- Ausência de gatilho claro de "resultado visível" nos 7 dias — sem prova concreta, não há motivo para o dono voltar a falar
+
 ---
 
 ## O que foi testado
@@ -71,6 +78,14 @@ V3 mostrou melhora qualitativa (menos "enrolando" pós-diagnóstico) mas taxa ab
 O gargalo **não está na abertura** (prospects respondem). Está na **conversão resposta → reunião**. A mensagem desperta curiosidade, mas o CTA de trial direto por WhatsApp frio não tem credibilidade suficiente sem prova social própria.
 
 **Teste recomendado:** após fechar o primeiro cliente, substituir o frame de "validação" por case real e medir se a taxa de reunião sobe.
+
+## Atualização (2026-07-09)
+
+O gargalo agora aparece em **duas** etapas, não uma: além da baixa taxa msg→reunião, o único trial realizado também não converteu (ghost). Isso desloca parte da hipótese de "falta de credibilidade no primeiro contato" para "falta de acompanhamento ativo durante o trial" — sem onboarding guiado, o prospect não vê resultado a tempo de decidir.
+
+Duas mudanças em teste para atacar ambas as etapas:
+- [[loom-outreach-personalizado]] — vídeo de diagnóstico personalizado substitui a pergunta de abertura, buscando fechar o gap de credibilidade citado na hipótese principal.
+- [[oferta-diversificada-por-nicho]] — pacote específico por nicho (ex: cards NFC para restaurante) pode reduzir a fricção de adoção que hoje aparece no pós-trial.
 
 ---
 

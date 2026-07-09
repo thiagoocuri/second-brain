@@ -3,7 +3,7 @@ title: "Outreach (Quente e Frio)"
 type: concept
 tags: [geração-de-leads, vendas, prospecção, hormozi]
 created: 2026-04-14
-updated: 2026-06-26
+updated: 2026-07-09
 sources: 4
 ---
 
@@ -84,6 +84,8 @@ Os scripts da [[Avalyse]] ([[avalyse-scripts-cold-outreach-v1]]) ilustram o fram
 
 O CTA foi redesenhado de "reunião de 10min" para ativação direta do trial — remove fricção de agendamento no funil frio. O padrão confirma a orientação de Hormozi: em outreach frio, a oferta do lead magnet como primeira interação converte melhor do que pitchar direto; e collapsar valor + oferta numa mensagem reduz pontos de abandono.
 
+**v4 (jul/2026):** a pergunta de abertura ("posso passar o diagnóstico?") é substituída por um vídeo de diagnóstico personalizado enviado diretamente — sem pedir permissão antes. Canal-agnóstico: WhatsApp, Instagram, LinkedIn, cold call ou presencial, o que estiver disponível. Ver [[loom-outreach-personalizado]].
+
 ## Cold Calling: o que diferencia quem fecha
 
 O cold call é o canal de outreach frio com maior velocidade de feedback — a rejeição (ou abertura) é imediata, o que comprime a curva de aprendizado. Os princípios de [[alex-hormozi]] que se aplicam especificamente ao canal de voz:
@@ -98,7 +100,7 @@ O cold call é o canal de outreach frio com maior velocidade de feedback — a r
 
 ## Related Concepts
 
-[[geracao-de-leads]], [[lead-magnet]], [[regra-dos-100]], [[marketing-de-conteudo]], [[reputacao-online]], [[gap-de-confianca]], [[entrega-em-vendas]]
+[[geracao-de-leads]], [[lead-magnet]], [[regra-dos-100]], [[marketing-de-conteudo]], [[reputacao-online]], [[gap-de-confianca]], [[entrega-em-vendas]], [[loom-outreach-personalizado]]
 
 ## Sources
 

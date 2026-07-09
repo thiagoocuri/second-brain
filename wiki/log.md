@@ -5,6 +5,17 @@ Format: `## [YYYY-MM-DD] <operation> | <title>`
 
 ---
 
+## [2026-07-09] update | Weekly sync — protocolo NEW DATA (27/06 a 09/07)
+
+- **Ban prolongado:** o ban de WhatsApp de 22/06 segue ativo há mais de 15 dias — 0 mensagens novas disparadas no período. Muito acima do 1° incidente (~2h); reclassificado como problema estrutural, não interrupção pontual. Ver [[analyses/anti-ban-whatsapp]] atualizado.
+- **Trial Hey Peppers encerrado sem conversão** — dono deu ghost após os 7 dias. Novo padrão de gargalo identificado: ghosting agora ocorre também pós-trial, não só pré-reunião. Ver [[analyses/gargalo-conversao-outreach]] e [[analyses/metricas-execucao-avalyse]] atualizados.
+- **2 reuniões informais agendadas** para a semana de 09/07, fora do funil de tracking padrão — únicas oportunidades reais de fechar o 1° cliente antes do deadline de 15/07 (faltam 6 dias). O marco de decisão de 08/07 foi ultrapassado sem trial ativo. Ver [[analyses/deadline-primeiro-cliente-2026-07-15]] com janela final revisada.
+- **Pivot de produto:** pesquisa de campo em ~15 restaurantes (Pinheiros, SP) revelou que o fluxo padrão falha no nicho por falta de coleta de celular. Solução: cards NFC (Alibaba) — cliente aproxima o celular e cai direto na avaliação. Restaurante reclassificado de "evitar" para "prioritário". Novo conceito: [[concepts/oferta-diversificada-por-nicho]] — produto deixa de ser pacote único, passa a ter configuração por vertical. Novo upsell transversal: site + SEO, pagamento único.
+- **Nova estratégia de outbound:** pergunta de abertura ("quer o diagnóstico?") substituída por vídeo de diagnóstico personalizado, enviado direto por qualquer canal (WhatsApp, Instagram, LinkedIn, cold call, presencial). Resolve pendência registrada desde o lint de 12/06. Novo conceito: [[concepts/loom-outreach-personalizado]]. Conceito [[concepts/outreach]] atualizado com v4.
+- Entidade [[entities/avalyse]] atualizada: overview, key facts, tabela de nichos, materiais de vendas, related.
+
+---
+
 ## [2026-06-27] ingest | SOCi — Deep Research Report
 
 - Ingest de pesquisa aprofundada sobre a SOCi: $237M em funding, ~1.000 marcas, ~3M pontos de venda, líder de categoria em marketing local multilocal. Criada entidade [[entities/soci]] com perfil completo (fundador Afif Khoury, funding JMI, produto Genius Agents, cases Sport Clips/Liberty Tax). Source [[sources/soci-deep-research-2026]] confirma que a SOCi é a empresa de referência por trás dos dados empíricos do pitch da Avalyse.
